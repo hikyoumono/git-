@@ -3,3 +3,11 @@
 git add
 git commit
 git rm
+git status
+git log
+<html>
+<head>
+</head>
+<p></p>
+</html>
+
