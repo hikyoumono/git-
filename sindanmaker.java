@@ -14,11 +14,13 @@ zi.setVisible(true);
 public sindanmaker(){
 //scene1
 JPanel scene1 = new JPanel();
+JLabel jl = JLabel("質問");
 JButton button1 = new JButton();
 JButton button2 = new JButton();
 JButton button3 = new JButton();
 JButton button4 = new JButton();
 button1.addActionListener(this);
+scene1.add(jl);
 scene1.add(button1);
 add(scene1);
 
